@@ -35,7 +35,7 @@ Check your version to make sure it’s installed correctly:
 
 If you have Git installed:
 
-git clone https://github.com/your-username/char-counter.git
+git clone https://github.com/kyatco/char-counter.git
 cd char-counter
 
 
