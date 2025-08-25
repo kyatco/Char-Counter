@@ -6,6 +6,16 @@ A simple Node.js project that counts the number of times each character appears 
 
 ## 📂 Project Structure
 
+char-counter/
+│── src/
+│   ├── counter.js   # Function logic
+│   └── main.js      # Example usage
+│
+│── tests/
+│   └── test.js      # Simple test cases
+│
+│── README.md
+│── package.json
 
 ---
 
@@ -25,7 +35,7 @@ Check your version to make sure it’s installed correctly:
 
 If you have Git installed:
 
-git clone https://github.com/kyatco/char-counter.git
+git clone https://github.com/your-username/char-counter.git
 cd char-counter
 
 
@@ -35,7 +45,9 @@ If you don’t have Git, click the “Code → Download ZIP” button on GitHub,
 
 Inside the project folder, run:
 
+```bash
 npm init -y
+```
 
 This will create a package.json file.
 Now, copy the provided package.json content (see below) into it.
@@ -44,8 +56,9 @@ Now, copy the provided package.json content (see below) into it.
 
 Run the program with:
 
+```bash
 npm start
-
+```
 
 Expected output:
 
@@ -56,8 +69,9 @@ Character counts: { h: 1, e: 1, l: 3, o: 2, ' ': 1, w: 1, r: 1, d: 1 }
 
 We also made a small test file to check the function. Run:
 
+```bashß
 npm test
-
+```
 
 Expected output:
 
