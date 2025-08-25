@@ -5,7 +5,7 @@ A simple Node.js project that counts the number of times each character appears 
 ---
 
 ## 📂 Project Structure
-
+```
 char-counter/
 │── src/
 │   ├── counter.js   # Function logic
@@ -16,7 +16,7 @@ char-counter/
 │
 │── README.md
 │── package.json
-
+```
 ---
 
 ## 🛠️ Getting Started
