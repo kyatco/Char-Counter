@@ -1,0 +1,11 @@
+{
+    "name": "char-counter",
+    "version": "1.0.0",
+    "description": "Beginner-friendly character counter in JavaScript",
+    "main": "src/main.js",
+    "scripts": {
+      "start": "node src/main.js",
+      "test": "node tests/test.js"
+    }
+  }
+  
